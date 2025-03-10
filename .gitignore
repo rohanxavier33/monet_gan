@@ -5,3 +5,5 @@ logs/
 samples/
 caffeine.py
 .DS_Store
+cache/
+cyclegan_checkpoints/
