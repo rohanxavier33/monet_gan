@@ -3,3 +3,5 @@ generated_images/
 checkpoints/
 logs/
 samples/
+caffeine.py
+.DS_Store
