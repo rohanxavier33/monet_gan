@@ -121,8 +121,6 @@ Future Improvements
 
 -   Experiment with deeper architectures and advanced normalization methods.
 
--   Explore quantitative evaluation metrics like FID scores to objectively assess image quality.
-
 -   Apply data augmentation strategies for improved generalization.
 
 Results Showcase
