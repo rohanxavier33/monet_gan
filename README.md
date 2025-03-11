@@ -4,7 +4,7 @@ Monet-Style Painting Generation using CycleGAN (https://www.kaggle.com/code/roha
 Project Overview
 ----------------
 
-This project explores artistic style transfer using CycleGAN, specifically translating real-world photos into paintings resembling the style of Claude Monet. The model operates in an unsupervised setting, meaning it does not require paired data between source and target domains.
+This project explores artistic style transfer using CycleGAN, specifically translating real-world photos into paintings resembling the style of Claude Monet. The model operates in an unsupervised setting, meaning it does not require paired data between source and target domains. This project has a 50.77 MiFID score on Kaggle which is in the top ten for the competition.
 
 Problem Statement
 -----------------
