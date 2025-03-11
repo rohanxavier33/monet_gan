@@ -1,4 +1,4 @@
-Monet-Style Painting Generation using CycleGAN (https://www.kaggle.com/code/rohanxaviergupta/cycleganmonet | nbviewer)
+Monet-Style Painting Generation using CycleGAN (https://www.kaggle.com/code/rohanxaviergupta/cycleganmonet | https://rohanxavier33.github.io/monet_gan/)
 ==============================================
 
 Project Overview
